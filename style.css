@@ -1,0 +1,43 @@
+body{
+    background-color: #b20c41;
+}
+
+#firstHeading{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    
+}
+
+#secondHeading{
+    text-align: center;
+    font-family: 'Bellefair', serif;
+}
+
+#me{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    color:#f9c2d4;
+}
+
+#thirdHeading{
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
+
+#body2{
+    background-color: #8ef9ff;
+    
+}
+
+#pictureHeading{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    color: #778182;
+}
+
+#one{
+    height: 200px;
+    width: 200px;
+    
+}
